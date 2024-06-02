@@ -1,5 +1,5 @@
 
-import Header from '@/components/Header'
+import Header from './components/Header'
 import Hero from './components/Hero'
 import Services from './components/Services'
 import ServiceArea from './components/ServiceArea'
@@ -13,17 +13,15 @@ function App() {
 
   return (
     <>
-      {/* <div className='min-h-screen'> */}
-        <Header />
-        <Hero />
-      {/* </div> */}
-        <Services />
-        <ServiceArea />
-        <Industries />
-        <Solutions />
-        <Career />
-        <Guest />
-        <Footer />
+      <Header />
+      <Hero />
+      <Services />
+      <ServiceArea />
+      <Industries />
+      <Solutions />
+      <Career />
+      <Guest />
+      <Footer />
     </>
   )
 }
