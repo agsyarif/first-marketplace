@@ -5,7 +5,7 @@ const Career = () => {
     <div className="container mx-auto mt-[60px]">
       <div className="grid grid-cols-2 items-center">
         <div className="mx-auto">
-          <img src="./src/assets/section.png" alt="#" width={500} height={500} />
+          <img src="%PUBLIC_URL%/assets/section.png" alt="#" width={500} height={500} />
         </div>
         <div className="flex flex-col gap-y-6">
           <h1 className="text-[48px] font-poppins font-semibold text-[#010F52]">Having Access to <br />

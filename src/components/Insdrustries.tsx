@@ -4,14 +4,14 @@ import 'swiper/css'
 import 'swiper/css/pagination'
 
 const industries = [
-  {img: './src/assets/industries/1.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/2.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/3.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/4.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/1.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/2.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/3.png', title: 'Supply chain solution'},
-  {img: './src/assets/industries/4.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/1.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/2.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/3.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/4.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/1.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/2.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/3.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/industries/4.png', title: 'Supply chain solution'},
 ];
 
 const Industries = () => {

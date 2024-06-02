@@ -1,8 +1,8 @@
 const solutions = [
-  {img: './src/assets/solution/1.png', title: 'One Stop Solution', bg: '#F7ECDE'},
-  {img: './src/assets/solution/2.png', title: 'Dedicated Service Expert', bg: '#DAEAF1'},
-  {img: './src/assets/solution/3.png', title: 'Affordable Service', bg: '#FFE6E6'},
-  {img: './src/assets/solution/4.png', title: 'Growth Monitoring System', bg: '#F2EBE9'},
+  {img: '%PUBLIC_URL%/assets/solution/1.png', title: 'One Stop Solution', bg: '#F7ECDE'},
+  {img: '%PUBLIC_URL%/assets/solution/2.png', title: 'Dedicated Service Expert', bg: '#DAEAF1'},
+  {img: '%PUBLIC_URL%/assets/solution/3.png', title: 'Affordable Service', bg: '#FFE6E6'},
+  {img: '%PUBLIC_URL%/assets/solution/4.png', title: 'Growth Monitoring System', bg: '#F2EBE9'},
 ]
 
 const Solutions = () => {

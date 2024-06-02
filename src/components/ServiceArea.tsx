@@ -1,10 +1,10 @@
 const serviceArea = [
-  {img: './src/assets/area/1.png', title: 'Research and Analytics'},
-  {img: './src/assets/area/2.png', title: 'Risk Intelligince'},
-  {img: './src/assets/area/3.png', title: 'Business and operations supports'},
-  {img: './src/assets/area/4.png', title: 'Global marketing'},
-  {img: './src/assets/area/5.png', title: 'Technical supports and solutions'},
-  {img: './src/assets/area/6.png', title: 'Supply chain solution'},
+  {img: '%PUBLIC_URL%/assets/area/1.png', title: 'Research and Analytics'},
+  {img: '%PUBLIC_URL%/assets/area/2.png', title: 'Risk Intelligince'},
+  {img: '%PUBLIC_URL%/assets/area/3.png', title: 'Business and operations supports'},
+  {img: '%PUBLIC_URL%/assets/area/4.png', title: 'Global marketing'},
+  {img: '%PUBLIC_URL%/assets/area/5.png', title: 'Technical supports and solutions'},
+  {img: '%PUBLIC_URL%/assets/area/6.png', title: 'Supply chain solution'},
 ]
 
 const ServiceArea = () => {

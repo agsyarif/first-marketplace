@@ -1,10 +1,10 @@
 const services = [
-  {img: './src/assets/services/1.png', title: 'Research & analytics', desc: 'wide range of research and analytics provides clear insights of global business market situations for upgrading the'},
-  {img: './src/assets/services/2.png', title: 'Innovations & Technologies', desc: 'Strong one end AI- Platform helps to instant procure, hiring supports, technological team, supply products to global, and real-time '},
-  {img: './src/assets/services/3.png', title: 'Manufacturing', desc: 'deep research and analytics invloving in manufacturing, production and operations related latest technologies that minimize the '},
-  {img: './src/assets/services/4.png', title: 'Cost reduction', desc: 'our smart services offering free services that reducing wide range of third party cost minimizing and on time supports from collaborative business partners '},
-  {img: './src/assets/services/5.png', title: 'Global C-Smart marketing', desc: 'offering purchase raw material for your production and market your final product to global market with its own virtual showroom facilities'},
-  {img: './src/assets/services/6.png', title: 'Technological Team', desc: ' real-time solutions provides online and offline (upon request) from world class technological or domain experts'},
+  {img: '%PUBLIC_URL%/assets/services/1.png', title: 'Research & analytics', desc: 'wide range of research and analytics provides clear insights of global business market situations for upgrading the'},
+  {img: '%PUBLIC_URL%/assets/services/2.png', title: 'Innovations & Technologies', desc: 'Strong one end AI- Platform helps to instant procure, hiring supports, technological team, supply products to global, and real-time '},
+  {img: '%PUBLIC_URL%/assets/services/3.png', title: 'Manufacturing', desc: 'deep research and analytics invloving in manufacturing, production and operations related latest technologies that minimize the '},
+  {img: '%PUBLIC_URL%/assets/services/4.png', title: 'Cost reduction', desc: 'our smart services offering free services that reducing wide range of third party cost minimizing and on time supports from collaborative business partners '},
+  {img: '%PUBLIC_URL%/assets/services/5.png', title: 'Global C-Smart marketing', desc: 'offering purchase raw material for your production and market your final product to global market with its own virtual showroom facilities'},
+  {img: '%PUBLIC_URL%/assets/services/6.png', title: 'Technological Team', desc: ' real-time solutions provides online and offline (upon request) from world class technological or domain experts'},
 ];
 
 const Services = () => {
